@@ -1,5 +1,3 @@
-# All-Laboratory-Activity
-Laboratory Prelims to Prefinals
 <h1 align="center">📚 Laboratory Activities Compilation</h1>
 
 <p align="center">
